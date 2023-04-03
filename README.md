@@ -1,1 +1,1 @@
-Personal portfolio made using react, sass and typescript
+Personal portfolio made using react
